@@ -29,7 +29,7 @@
 
 
      .slider .slides li #img1 {
-      background-size: 80% 100%;
+      background-size: 100% 100%;
       background-color: #FCFBF9;
       background-repeat: no-repeat;
       background-position: center;
@@ -104,8 +104,14 @@ marquee {
  <div class="slider"  style="overflow: hidden;">
   <ul class="slides">
     <li>
-      <img id="img1" src="img/indexslider/sac-logo.jpg"/>
+      <img id="img1" src="img/indexslider/coverfb.jpg"/>
     </li>
+
+    <li>
+      <img id="img1" src="img/homecoming.jpg"/>
+    </li>
+
+
     <li>
       <img src="img/indexslider/aam18.jpg" width="100%" />
     </li>

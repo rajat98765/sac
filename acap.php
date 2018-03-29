@@ -325,7 +325,9 @@ Thus, we encourage all alumni to sign up for the Program and start off on the tr
 
       <!-- Modal Trigger -->
 
-      <a class="waves-effect waves-light btn modal-trigger" href="#modal1">Alumni Registration</a>
+<a class="waves-effect waves-light btn">Alumni Registration (Closed)</a>
+
+    <!--  <a class="waves-effect waves-light btn modal-trigger" href="#modal1">Alumni Registration</a> -->
 
     </div>
 
@@ -496,7 +498,9 @@ include 'captcha_gen_a.php';
 
       <!-- Modal Trigger -->
 
-      <a class="waves-effect waves-light btn modal-trigger" href="#modal2">Students Registration</a>
+<a class="waves-effect waves-light btn">Students Registration (Closed)</a>
+
+  <!--    <a class="waves-effect waves-light btn modal-trigger" href="#modal2">Students Registration</a> -->
 
     </div>
 
